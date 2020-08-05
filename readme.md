@@ -1,7 +1,7 @@
 # news fetcher in python
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pywin32 in order to listen voice.
 
 ```bash
 pip install pywin32

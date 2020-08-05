@@ -10,11 +10,11 @@ pip install pywin32
 ## Usage
 
 This can be used to fetch various
-- run the python file  
+1. run the python file  
 ``` cmd
 python main.py
 ```
-- enter the country name in short (Ex. india = in)
+2. enter the country name in short (Ex. india = in)
 
 
 
